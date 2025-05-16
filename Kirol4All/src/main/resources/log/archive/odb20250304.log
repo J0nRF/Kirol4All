@@ -1,0 +1,459 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 11:31:56 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 19676@DESKTOP-58SPJ4J
+
+[2025-03-04 11:31:56 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-04 11:31:56 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-04 11:31:56 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 11:31:56 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 11:31:56 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 11:31:56 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 11:42:06 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 14948@DESKTOP-58SPJ4J
+
+[2025-03-04 11:42:07 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-04 11:42:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-04 11:42:07 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 11:42:07 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 11:42:07 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 11:42:07 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 11:44:35 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 4136@DESKTOP-58SPJ4J
+
+[2025-03-04 11:44:35 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-04 11:44:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-04 11:44:35 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 11:44:35 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 11:44:35 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 11:44:35 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 12:22:38 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 15480@DESKTOP-58SPJ4J
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 12:26:23 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 13340@DESKTOP-58SPJ4J
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 12:38:40 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 14496@DESKTOP-58SPJ4J
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 13:44:18 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 18000@DESKTOP-58SPJ4J
+
+[2025-03-04 13:44:41 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 13:44:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 13:44:41 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 13:44:41 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 13:44:41 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 13:49:03 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 3892@DESKTOP-58SPJ4J
+
+[2025-03-04 13:49:11 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 13:49:11 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 13:49:11 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 13:49:11 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 13:49:11 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 13:49:11 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:47:48 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 12060@DESKTOP-58SPJ4J
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:49:50 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 16144@DESKTOP-58SPJ4J
+
+[2025-03-04 14:49:58 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 14:49:58 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 14:49:58 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 14:49:58 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 14:49:58 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 14:49:58 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:53:56 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 15688@DESKTOP-58SPJ4J
+
+[2025-03-04 14:54:01 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 14:54:01 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 14:54:01 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 14:54:01 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 14:54:01 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 14:54:01 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:57:15 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 10444@DESKTOP-58SPJ4J
+
+[2025-03-04 14:57:19 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 14:57:19 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 14:57:19 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 14:57:19 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 14:57:19 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 14:57:19 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:57:46 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 4376@DESKTOP-58SPJ4J
+
+[2025-03-04 14:57:50 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 14:57:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 14:57:50 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 14:57:50 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 14:57:50 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 14:57:50 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 14:58:42 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.temp' is opened by 8004@DESKTOP-58SPJ4J
+
+[2025-03-04 14:58:45 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 14:58:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 14:58:45 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 14:58:45 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 14:58:45 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 14:58:45 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:02:50 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 18272@DESKTOP-58SPJ4J
+
+[2025-03-04 15:02:56 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:02:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:02:56 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:02:56 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:02:56 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:02:56 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:36:36 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 15568@DESKTOP-58SPJ4J
+
+[2025-03-04 15:36:42 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:36:42 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:36:42 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:36:42 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:37:24 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 19324@DESKTOP-58SPJ4J
+
+[2025-03-04 15:37:26 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:37:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:37:26 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:37:26 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:41:16 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 7948@DESKTOP-58SPJ4J
+
+[2025-03-04 15:41:17 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:41:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:41:17 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:41:17 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:41:48 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 7536@DESKTOP-58SPJ4J
+
+[2025-03-04 15:41:51 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:41:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:41:51 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:41:51 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:42:06 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:42:06 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:42:56 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 13084@DESKTOP-58SPJ4J
+
+[2025-03-04 15:42:57 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:42:57 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:42:57 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:42:57 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:43:05 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:43:05 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:43:54 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 16444@DESKTOP-58SPJ4J
+
+[2025-03-04 15:43:56 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:43:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:43:56 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:43:56 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:44:04 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:44:04 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:46:41 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 4868@DESKTOP-58SPJ4J
+
+[2025-03-04 15:46:50 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:46:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:46:50 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:46:50 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:47:00 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:47:00 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 15:48:24 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 3892@DESKTOP-58SPJ4J
+
+[2025-03-04 15:48:27 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 15:48:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 15:48:27 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 15:48:27 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 15:48:36 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 15:48:36 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-04 16:16:10 #1 store] 
+Database 'C:\Users\jonru\Desktop\IS1\Rides24-master\src\main\resources\rides.odb' is opened by 5684@DESKTOP-58SPJ4J
+
+[2025-03-04 16:16:30 #2 type.registry] 
+New type domain.User
+
+[2025-03-04 16:16:30 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-04 16:16:30 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-04 16:16:30 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-04 16:16:48 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-04 16:16:48 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
