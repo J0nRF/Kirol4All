@@ -1,10 +1,12 @@
 package dataAccess;
 
 import java.io.File;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.ResourceBundle;
 
@@ -81,8 +83,10 @@ public class DataAccess  {
 		   
 		   User Encargado = new User("Encargado", "1234", "qwer", 0, false, 0);
 		   Encargado.setType(true);
+		   User jon = new User("Jon","4321","Jon", 10, false, 584632);
 		   
 		   db.persist(Encargado);
+		   db.persist(jon);
 
 		   Room grande = new Room(20,"Grande");
 		   Room pequeña = new Room(6, "Pequeña");
@@ -94,11 +98,58 @@ public class DataAccess  {
 		   db.persist(cancha);
 		   db.persist(pistaTenis);
 		   
-		   Activity tenis = new Activity("Tenis", 4, 5.99);
+		   Activity tenis = new Activity("Tenis", 4, 5.9);
 		   Activity padel = new Activity("Padel", 5, 3.2);
+		   Activity spinning = new Activity("Spinning", 8, 4);
 		   
 		   db.persist(tenis);
 		   db.persist(padel);
+		   db.persist(spinning);
+		   
+		   SimpleDateFormat formatter = new SimpleDateFormat("EEE MMM dd HH:mm:ss z yyyy", Locale.ENGLISH);
+		   
+		   Session Padel1 = new Session(pistaTenis, formatter.parse("MON May 19 17:00:00 CEST 2025"), padel);
+		   Session Padel2 = new Session(pistaTenis, formatter.parse("MON May 19 18:00:00 CEST 2025"), padel);
+		   Session Padel3 = new Session(pistaTenis, formatter.parse("MON May 19 19:00:00 CEST 2025"), padel);
+		   
+		   Session Tenis1 = new Session(pistaTenis, formatter.parse("MON May 19 10:00:00 CEST 2025"), tenis);
+		   Session Tenis2 = new Session(pistaTenis, formatter.parse("MON May 19 11:00:00 CEST 2025"), tenis);
+		   Session Tenis3 = new Session(pistaTenis, formatter.parse("MON May 19 12:00:00 CEST 2025"), tenis);
+		   
+		   Session Spinning1 = new Session(pequeña, formatter.parse("MON May 19 10:00:00 CEST 2025"), spinning);
+		   Session Spinning2 = new Session(pequeña, formatter.parse("MON May 19 14:00:00 CEST 2025"), spinning);
+		   Session Spinning3 = new Session(pequeña, formatter.parse("MON May 19 18:00:00 CEST 2025"), spinning);
+		   
+		   db.persist(Padel1);
+		   db.persist(Padel2);
+		   db.persist(Padel3);
+		   
+		   db.persist(Tenis1);
+		   db.persist(Tenis2);
+		   db.persist(Tenis3);
+		   
+		   db.persist(Spinning1);
+		   db.persist(Spinning2);
+		   db.persist(Spinning3);
+		   
+		   Booking reserva1 = new Booking(jon, Padel1, 0);
+		   Booking reserva2 = new Booking(jon, Padel2, 1);
+		   Booking reserva3 = new Booking(jon, Padel3, 2);
+		   Booking reserva4 = new Booking(jon, Tenis1, 3);
+		   Booking reserva5 = new Booking(jon, Spinning1, 4);
+		   
+		   db.persist(reserva1);
+		   db.persist(reserva2);
+		   db.persist(reserva3);
+		   db.persist(reserva4);
+		   db.persist(reserva5);
+		   
+		   Bill bill = new Bill(0, jon);
+		   
+		   bill.addBooking(reserva5);
+		   bill.setPrice(4);
+		   
+		   db.persist(bill);
 		   
 			db.getTransaction().commit();
 			System.out.println("Db initialized");
